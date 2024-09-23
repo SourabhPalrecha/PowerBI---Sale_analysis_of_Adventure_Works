@@ -14,3 +14,4 @@ Approach:
      for more than 30% of total sales.
 ✔Utilized historical sales data, geographical patterns, and seasonality factors to make data-driven 
      decisions that enhanced market penetration and reduced inventory costs.
+The PowerBI report is attached as Adventure_Works.pdf
